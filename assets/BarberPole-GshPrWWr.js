@@ -1,4 +1,4 @@
-import{_ as e,a as t,b as n,c as r,f as i,g as a,h as o,i as s,l as c,m as l,n as u,o as d,p as f,r as p,s as m,t as h,u as g,v as _}from"./Lightformer-C_i5ORJ9.js";import{o as v,r as y,t as b}from"./index-D37UviBr.js";var x={uniforms:{tDiffuse:{value:null},h:{value:1/512}},vertexShader:`
+import{_ as e,a as t,b as n,c as r,f as i,g as a,h as o,i as s,l as c,m as l,n as u,o as d,p as f,r as p,s as m,t as h,u as g,v as _}from"./Lightformer-BT6eABXH.js";import{o as v,r as y,t as b}from"./index-jqU0SF0_.js";var x={uniforms:{tDiffuse:{value:null},h:{value:1/512}},vertexShader:`
       varying vec2 vUv;
 
       void main() {
